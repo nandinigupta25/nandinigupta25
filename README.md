@@ -44,7 +44,9 @@
 🏗️ What I'm Currently Building
 
 🌍 Travel Together — Travel Buddy Finder: a full-stack Django platform that matches travellers by destination, dates & interests, with an optimised MySQL schema and dynamic search/filter (Python · Django · MySQL · JS)
+
 ⛅ Weather Forecasting Dashboard: responsive single-page app pulling live data from the OpenWeatherMap REST API, with city search, °C/°F conversion & a 5-day forecast (HTML · CSS · JavaScript)
+
 🧠 Autism Detection Project: an ML project exploring data-driven detection in a Jupyter Notebook
 📈 Strengthening fundamentals in DSA, DBMS, OOP & Computer Networks every single day
 
