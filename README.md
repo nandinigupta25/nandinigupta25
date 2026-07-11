@@ -6,7 +6,7 @@
 
 🔥 About Me
 
-🎓 B.Tech Computer Science & Engineering student at SRM IST, Ghaziabad (Class of 2027) — CGPA 9.37 / 10
+🎓 B.Tech Computer Science & Engineering student at SRM IST, Ghaziabad (Class of 2027) — CGPA 9.4 / 10
 💻 Full-stack web developer — building real platforms with Django, MySQL & JavaScript
 🤖 Exploring AI/ML — working on projects like an autism-detection model in Jupyter
 🌐 Former Network Engineering Intern at DMRC — VLAN configuration, network security & infrastructure
